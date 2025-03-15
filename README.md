@@ -1,9 +1,14 @@
 # FILE-INTEGRITY-CHECKER
 *COMPANY*: CODTECHIT SOLUTIONS
+
 *NAME*: SIVANGULA.NIKHILA SRI
+
 *INTERN ID*:CT04XMO
+
 *DOMAIN*:Cyber Security & Ethical Hacking
+
 *DURATION*:4 WEEKS
+
 *MENTOR*:NEELA SANTOSH KUMAR
 
 ##description
@@ -68,4 +73,7 @@ The File Integrity Checker has a wide range of applications, including:
 
 ### Conclusion
 A **File Integrity Checker** is a crucial tool for maintaining data integrity, detecting cyber threats, and ensuring compliance with security standards. With Python, `hashlib`, and simple automation techniques, it provides a robust solution for individuals and enterprises. Whether used for cybersecurity, IT administration, or forensic analysis, this tool is indispensable in today’s digital world.
+
+#output
+
 
