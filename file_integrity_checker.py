@@ -46,6 +46,3 @@ def monitor_files(file_paths):
 if __name__ == "__main__":
     files_to_monitor = ["example.txt", "test.docx"]  # Add files to monitor here
     monitor_files(files_to_monitor)
-
-
-#output
