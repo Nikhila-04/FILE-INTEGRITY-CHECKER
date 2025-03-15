@@ -1,15 +1,16 @@
 # FILE-INTEGRITY-CHECKER
+
 *COMPANY*: CODTECHIT SOLUTIONS
 
 *NAME*: SIVANGULA.NIKHILA SRI
 
-*INTERN ID*:CT04XMO
+*INTERN ID*: CT04XMO
 
-*DOMAIN*:Cyber Security & Ethical Hacking
+*DOMAIN*: Cyber Security & Ethical Hacking
 
-*DURATION*:4 WEEKS
+*DURATION*: 4 WEEKS
 
-*MENTOR*:NEELA SANTOSH KUMAR
+*MENTOR*: NEELA SANTOSH
 
 ##description
 **File Integrity Checker: A Comprehensive Overview**
